@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1701746332 source:d:\proiecte\teammate\main.cpp
+	<iostream>
+	<User.h>
+	<list>
+	<fstream>
+	<Team.h>
+
+1701730169 d:\proiecte\teammate\include\user.h
+	<string>
+
+1701732561 source:d:\proiecte\teammate\src\user.cpp
+	"User.h"
+	<iostream>
+
+1701747882 source:d:\proiecte\teammate\src\team.cpp
+	"Team.h"
+
+1701747861 d:\proiecte\teammate\include\team.h
+	<list>
+	<User.h>
+	<iostream>
+
